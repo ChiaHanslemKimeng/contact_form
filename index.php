@@ -9,7 +9,7 @@
 </head>
 <body>
 
-  <?php
+  <!-- <?php
 
     if(!empty($_POST["Send"])){
       $userName = $_POST["userName"];
@@ -62,6 +62,6 @@
           <?php } ?>
         </div>
       </form>
-    </div>
+    </div> -->
 </body>
 </html>
